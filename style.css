@@ -6,13 +6,12 @@
 }
 
 body {
-    font-family: "Times New Roman", Times, serif;
-    line-height: 1.8;
-    color: #222222;
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #fbfbfb;
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.8;
+  color: #222222;
+  margin: 0;
+  padding: 20px;
+  background-color: #fbfbfb;
 }
 
 /* Navigation bar */
@@ -100,4 +99,5 @@ footer {
     text-align: center;
     font-size: 14px;
     color: #666666;
+
 }
